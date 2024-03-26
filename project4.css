@@ -1,0 +1,141 @@
+.inbox{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+}
+.sec{
+    background-color: rgb(99, 113, 168);
+    /* padding: 20px; */
+}
+.inbox1{
+    /* background-color: aquamarine; */
+    /* height: 100%; */
+    /* padding: 20px ; */
+    text-align: right;
+    
+
+}
+.inbox2{
+    /* background-color: aqua; */
+    /* height: 500px; */
+    color: aliceblue;
+    padding:10px;
+    margin-top: 40px;
+    margin-left: 15px;
+}
+.pro{
+    /* float: left; */
+    display: inline-block;
+    text-align: right;
+    padding-top: 10px;
+}
+.the{
+    margin: 0px 20px 0px 100px;
+}
+.line{
+    background-color: rgb(213, 230, 230);
+    height: 2px;
+    width: 50%;
+}
+.cat{
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 7px;
+    font-weight: bold;
+        color: rgb(49, 120, 187);
+}
+.cat:hover{
+    color: rgb(49, 120, 187);
+}
+
+.inbox3{
+    text-align: center;
+    margin: 30PX;
+}
+.line2{
+    background-color: rgb(148, 146, 154);
+    height: 2px;
+    width: 100px;
+    display: inline-block;
+}
+.box{
+    text-decoration: none;
+    padding: 10px;
+    color:rgb(31, 151, 216);
+    border: solid 2px rgb(91, 199, 224);
+
+}
+.sec1{
+    background-color: rgb(99, 113, 168);
+    /* height: 400PX; */
+    padding-bottom: 50px;
+}
+.inbox4{
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+}
+.ico{
+    border-radius: 50%;
+    padding: 12px 15px;
+    color: aliceblue;
+    font-size: 40px;
+    border:1px solid white;
+}
+.as2{
+    margin-top: 30px;
+}
+.line3{
+    background-color: rgb(206, 204, 204);
+    height: 2px;
+    width: 100px;
+    display: inline-block;
+}
+
+.sec2{
+    background-color: rgb(32, 29, 29);
+    color: aliceblue;
+    height: 300px;
+}
+.inbox5{
+    text-align: center;
+    margin: 30px;
+}
+.inbox6{
+    text-align: center;
+    margin: 30px;
+}
+.sec3{
+    
+    background-color: rgb(32, 29, 29);
+}
+.inbox7{
+    text-align: center;
+    margin: 5px;
+    margin-bottom: 20px;
+}
+.inbox8{
+    text-align: center;
+font-weight: bold;
+color:white ;
+padding: 10px;
+margin: 30px;
+
+}
+.a1{
+    padding: 40px;
+    font-size:  larger ;
+}
+.inbox9{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.icon1{
+   margin: 10px;
+}
+@media(max-width:597){
+ .pro{
+    width: 100%;
+    
+ }
+}
